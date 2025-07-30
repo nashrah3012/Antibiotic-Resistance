@@ -1,2 +1,2 @@
 # Antibiotic-Resistance
-University project analyzing bacterial resistance based on real-world data from ECDC AMR surveillance database and Ribosomal Database Project. The analysis was performed using Python and Jupyter Notebook
+University project analyzing bacterial resistance based on real-world data from ECDC AMR Surveillance Database and Ribosomal Database Project. The analysis was performed using Python and Jupyter Notebook

@@ -26,7 +26,7 @@ This repository contains Jupyter notebooks for a university project analyzing ba
 | Date       | Update Description                                     |
 |------------|--------------------------------------------------------|
 | 2025-07-30 | Uploaded hospital simulation and bacterial species     |
-               identification notebook                                |
+|            | identification notebook                                |
 | 2025-07-31 | Added commentary and explanations in the notebooks     |
 
 ## ✍️ Author

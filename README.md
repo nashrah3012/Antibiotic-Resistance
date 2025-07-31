@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks for a university project analyzing ba
   Simulates hospital infection control scenarios using dual antibiotic application strategies.
 
 - `identifying_bacteria_species.ipynb`  
-  Identifies antibiotics and their associated producer species based on experimental data from our class lab session.
+  Identifies antibiotics and their associated producer species based on PCR test and gram-staining from our lab sessions.
 
 ## 🛠️ Tools & Technologies
 

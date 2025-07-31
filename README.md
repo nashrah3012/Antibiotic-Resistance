@@ -1,4 +1,4 @@
-# 🧬 Antibiotic-Resistance
+# 🧬 Antibiotic Discovery & Resistance
 This repository contains Jupyter notebooks for a university project analyzing bacterial resistance and identifying antibiotic-producing microbes from a soil sample. The project uses real-world data from ECDC AMR Surveillance Database and Ribosomal Database Project. 
 
 ## 📁 Project Structure
